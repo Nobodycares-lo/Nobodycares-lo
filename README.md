@@ -1,4 +1,9 @@
-I code cool stuff :D
+## I code cool stuff :D
+
+**i am a front end web developer** (dont quote me on that)
+
+**i also do a lot more then front end but i dont want to explain it all** 
+so just look through my profile!
 <!---
 Nobodycares-lo/Nobodycares-lo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
