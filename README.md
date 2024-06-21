@@ -3,7 +3,7 @@
 **i am a web developer** 
 
 **i know and tools i use**
-(some of these just a little bit i )
+(some of these just a little bit)
 <p align="center">
   <a href="https://github.com/nobodycares-lo">
     <img src="https://skillicons.dev/icons?i=cs,cpp,css,html,js,discord,ai,java,ps,robloxstudio,unity,vscode,windows,nodejs,godot,eclipse,github,idea" />
