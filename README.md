@@ -16,4 +16,8 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Nobodycares's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobodycares-lo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+# Contact
+uh you can contact me over discord. username: nobodycares_lo
+and email admin@nobodycareslo.me
+
 
